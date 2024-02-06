@@ -1,2 +1,2 @@
 # skittles-project
-SA-MP Skittles Town - Base Roleplay Project
+Skittles Town - Open Roleplay Project
